@@ -1,0 +1,1 @@
+# rolls-royce-holdingsplc-equity-research
