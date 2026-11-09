@@ -7,7 +7,7 @@ An end-to-end equity research project on **Rolls-Royce Holdings plc (LSE: RR.)**
 > **Rating: SELL** | Blended fair value **£8.66** vs share price **£13.67** (−37%)
 > A high-quality turnaround that the market has priced for considerably more than its published targets.
 
-📄 **[Read the full report (PDF)](report/Rolls_Royce_Equity_Research_Report.pdf)** · 📊 [Valuation model (Excel)](model/Rolls_Royce_Equity_Research_Model.xlsx) · 🐍 [Python analysis (notebook)](analysis/Rolls_Royce_Share_Price_Analysis.ipynb) · 🖥️ [Presentation](presentation/Rolls_Royce_Investment_Presentation.pptx)
+📄 **[Read the full report (PDF)](report/Rolls_Royce_Equity_Research_Report.pdf)** · 📊 [Valuation model (Excel)](model/Rolls_Royce_Equity_Research_Model.xlsx) · 🐍 [Python analysis (notebook)](analysis/Rolls_Royce_Share_Price_Analysis.ipynb) · 🖥️ [Presentation (PDF)](presentation/Rolls_Royce_Investment_Presentation.pdf) · 🏢 [Company research (PDF)](report/Rolls_Royce_Company_Research.pdf)
 
 ---
 
@@ -28,10 +28,10 @@ An end-to-end equity research project on **Rolls-Royce Holdings plc (LSE: RR.)**
 
 | Folder | Contents |
 |---|---|
-| [`report/`](report/) | Final equity research report (PDF and Word) and the stage-1 company and industry research document |
-| [`model/`](model/) | Excel valuation model: inputs, historicals, ratios, segments, forecast, DCF, sensitivity, scenarios, reverse DCF, peer comps and 16 automated integrity checks |
+| [`report/`](report/) | Final equity research report and the stage-1 company and industry research document (PDF to read in the browser, Word versions to download) |
+| [`model/`](model/) | Excel valuation model (download to open): inputs, historicals, ratios, segments, forecast, DCF, sensitivity, scenarios, reverse DCF, peer comps and 16 automated integrity checks |
 | [`analysis/`](analysis/) | Python notebook: returns, volatility, beta, drawdowns, event windows and a market-model event study with significance tests |
-| [`presentation/`](presentation/) | 14-slide investment presentation |
+| [`presentation/`](presentation/) | 14-slide investment presentation (PDF to read in the browser, PowerPoint to download) |
 | [`images/`](images/) | Charts used in this README |
 
 ## Project workflow
